@@ -5,8 +5,8 @@ color sets the colour of the text on the page.
  */
 
 html, body{
-  background-color: #eeeeee;
-  color: #53e2f0;
+  background-color: #53e2f0;
+  color: #111111;
 }
 
 /*
